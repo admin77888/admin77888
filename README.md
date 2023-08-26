@@ -1,5 +1,7 @@
 ### Hi there 👋
-![image](https://github.com/admin77888/admin77888/assets/90556424/866bfb33-db2f-4680-b7f4-4e0839480e4e)
+
+
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%EF%BC%81;%E5%80%BE%E6%9C%88%E5%8A%A0%E6%B2%B9%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81" alt="Typing SVG" /></a>
 
